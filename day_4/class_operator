@@ -7,5 +7,5 @@ Purpose: Use class operator to transform an integer to strings
 and concatenate them
 """
 
-my_string = "I want to buy " + str("10") + " bottles of water."
+my_string = "I want to buy " + str(10) + " bottles of water."
 print(my_string)
