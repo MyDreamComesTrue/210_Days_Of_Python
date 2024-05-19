@@ -2,7 +2,7 @@
 
 """
 Author: HealtTechKid
-Date: May 17, 2024
+Date: 17 / 05 / 2024
 Purpose: This script shows how to concatenate two strings
 """
 
